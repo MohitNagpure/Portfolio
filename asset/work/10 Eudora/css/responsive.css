@@ -1,0 +1,365 @@
+
+@media only screen and (min-width: 1201px) and (max-width: 1700px) {
+	.innerleft h2 {
+		padding: 100px 30px 110px;
+	}
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+	.nav-collapse li{
+		margin: 0px 20px;
+	}
+	h1,h2{
+		font-size: 65px;
+	}
+	span.line {
+		width: 7%;
+	}
+	.innermenu {
+		width: 33%;
+	}
+	.innerleft{
+		width: 40%;
+		min-height: 380px;
+	}
+	.innerright{
+		width: 60%;
+	}
+	.innerleft h2{
+		padding: 70px 45px 45px; 
+	}
+	.innerright img{
+		height: 380px;
+	}
+	h4 {
+		font-size: 30px;
+	}
+}
+
+@media only screen and (min-width: 960px) and (max-width: 991px) {
+	.nav-collapse a{
+		font-size: 15px;
+	}
+	.nav-collapse li{
+		margin: 0px 5px;
+	}
+	h1,h2{
+		font-size: 52px;
+	}
+	h1{
+		padding-bottom: 30px;
+	}
+	p.innerp{
+		font-size: 20px;
+		line-height: 35px;
+	}
+	#banner{
+		padding: 340px 0;
+	}
+	span.line {
+		width: 5%;
+		margin-top: 30px;
+	}
+	.innermenu {
+		width: 33%;
+	}
+	.innerleft{
+		width: 40%;
+		min-height: 380px;
+	}
+	.innerright{
+		width: 60%;
+	}
+	.innerleft h2{
+		padding: 100px 45px 45px; 
+	}
+	.innerright img{
+		height: 380px;
+	}
+	h4 {
+		font-size: 22px;
+	}
+	#news{
+		padding: 100px 0;
+	}
+	footer p.innerp{
+		font-size: 15px;
+	}
+	footer ul li a{
+		padding-left: 15px;
+		padding-top: 10px;
+		font-size: 15px;
+	}
+	footer {
+		padding: 40px 0;
+	}
+	#service article {
+		padding-top: 110px;
+	}
+	#service article p.innerp{
+		font-size: 17px;
+	}
+}
+
+
+@media only screen and (max-width: 959px) {
+	
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+
+	.nav-collapse a{
+		font-size: 15px;
+	}
+	.nav-collapse li{
+		margin: 0px 5px;
+	}
+	h1,h2{
+		font-size: 52px;
+	}
+	h1{
+		padding-bottom: 30px;
+	}
+	p.innerp{
+		font-size: 20px;
+		line-height: 35px;
+	}
+	#banner{
+		padding: 340px 0;
+	}
+	span.line {
+		width: 5%;
+		margin-top: 30px;
+	}
+	.tab-links li{
+		margin: 50px 20px;
+	}
+	.innermenu {
+		width: 33%;
+	}
+	.imagehover p.innerp{
+		font-size: 15px;
+	}
+	button.learn, button.order{
+		margin: 20px auto 0;
+		font-size: 20px;
+	}
+	.innerleft{
+		width: 50%;
+		min-height: 300px;
+	}
+	.innerright{
+		width: 50%;
+	}
+	.innerleft h2{
+		padding: 55px 45px 45px; 
+	}
+	.innerright img{
+		height: 300px;
+	}
+	h4 {
+		font-size: 22px;
+	}
+	#service article p.innerp {
+		font-size: 16px;
+	}
+	#service article {
+		padding-top: 110px;
+	}
+	#news{
+		padding: 100px 0;
+	}
+	footer p.innerp {
+		font-size: 15px;
+	}
+	
+	footer ul li a{
+		padding-left: 15px;
+		padding-top: 10px;
+		font-size: 15px;
+	}
+	footer {
+		padding: 40px 0;
+	}
+	
+}
+
+
+@media only screen and (max-width: 767px) {
+
+	a.hide-logo{
+		display: block;
+		float: left;
+	}
+	header {
+		padding-top: 30px;
+	}
+	header a.logo{
+		top: 5px;
+	}
+	a.hide-logo img{
+		width: 150px;
+		height: auto;
+	}
+	.nav-collapse li{
+		margin: 10px;
+	}
+	a.show-logo,.nav-collapse ul li:nth-child(3){
+		display: none;
+	}
+	p.innerp br,span.line{
+		display: none;
+	}
+	ul.tab-links li.active a,ul.tab-links li a{
+		font-size: 17px;
+		padding: 0px 20px;
+	}
+	
+	.innerleft{
+		width: 100%;
+		min-height: auto;
+	}
+	.innerright{
+		width: 100%;
+	}
+	.innerleft h2 {
+		padding: 20px;
+		font-size: 35px;
+		text-align: center;
+		float: none;
+	}
+	.innerleft h2 br{
+		display: none;
+	}
+	.innerright img{
+		height: auto;
+	}
+	h4 {
+		font-size: 20px;
+		line-height: 40px;
+	}
+	#service article {
+		padding-top: 10px;
+	}
+	footer p.innerp{
+		text-align: center;
+	}
+	footer ul {
+		float: none;
+		text-align: center;
+	}
+	footer ul li a{
+		margin: 10px;
+		padding-left: 0px; 
+	}
+
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	h1{
+		font-size: 58px;
+		padding-bottom: 25px;
+	}
+	p.innerp{
+		font-size: 20px;
+		line-height: 35px;
+	}
+	#banner{
+		padding: 250px 0 150px;
+	}
+	h2 {
+		font-size: 50px;		
+		padding-bottom: 40px;    
+	}
+	.innermenu {
+		width: 50%;
+	}
+	#menu, #service,#news,footer{
+		padding: 50px 0 50px;
+	}
+	input {
+		width: 70%;
+	}
+	.tab-links li {
+		margin: 30px 20px;
+	}
+
+	
+}
+
+
+@media only screen and (max-width: 479px) {
+	#banner{
+		padding: 150px 0 50px;
+	}
+	h1{
+		font-size: 35px;
+		padding-bottom: 25px;
+	}
+	p.innerp{
+		font-size: 18px;
+		line-height: 30px;
+	}
+	button.more{
+		font-size: 20px;
+		margin-top: 55px;
+	}
+	h2 {
+		font-size: 22px;
+		padding-bottom: 20px;
+		text-align: center;
+	}
+	#menu, #service,#news,footer{
+		padding: 30px 0 30px;
+	}
+	input {
+		width: 100%;
+	}
+	#service article p.innerp{
+		font-size: 14px;
+		line-height: 24px;
+	}
+	.tab-links li {
+		margin: 30px 5px;
+	}
+	ul.tab-links li.active a, ul.tab-links li a{
+		padding: 0px 15px;
+	}
+	.innermenu{
+		width: 100%;
+	}
+	button.learn, button.order{
+		margin: 15px auto;
+	}
+	.innerleft h2 {
+		font-size: 24px;
+		padding: 10px;
+		text-align: center;
+		float: none;
+	}
+	.innerleft h2 br{
+		display: none;		
+	}
+	.innerright img{
+		height: auto;
+	}
+	.innerleft{
+		min-height: auto;
+	}
+	button.btnmail{
+		margin: 50px auto 0;
+	}
+	footer p.innerp{
+		font-size: 12px;
+		line-height: 24px;
+	}
+	footer ul li a{
+		font-size: 12px;
+		margin: 5px;
+	}
+	
+}
+
